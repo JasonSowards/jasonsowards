@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Machinery Lubrication Magazine](https://www.e-digitaleditions.com/i/1206285-ml-jan-feb-2020-digital-edition/0?m4=)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
