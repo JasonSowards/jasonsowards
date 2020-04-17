@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machinery Lubrication Magazine 
 
-[Machinery Lubrication Magazine Digital Edition](https://www.e-digitaleditions.com/i/1222953-machinery-lubrication-march-april-2020)
+[March-April 2020 Digital Edition](https://www.e-digitaleditions.com/i/1222953-machinery-lubrication-march-april-2020)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
