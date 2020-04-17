@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Machinery Lubrication Magazine Digital Edition](https://www.e-digitaleditions.com/i/1222953-machinery-lubrication-march-april-2020)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Machinery Lubrication Magazine](https://www.e-digitaleditions.com/i/1206285-ml-jan-feb-2020-digital-edition/0?m4=)
+[Byline Article Example 1](https://www.machinerylubrication.com/Read/30769/lubricant-storage-handling)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Byline Article Example 2](https://www.machinerylubrication.com/Read/30831/reliable-plant-2017)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
